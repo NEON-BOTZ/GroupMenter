@@ -74,29 +74,19 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hey there! My name is Group Menter*.
-*I'm here to help you manage your groups!*
+*Hey there! My name is SCAR BOT.
 
-Hit /help to find out more about how to use me to my full potential.
+എന്നെ എന്റെ  Group ൽ മാത്രമേ Use ചെയ്യാൻ പറ്റു.
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD TO YOUR GROUP ➕️", url="https://t.me/GroupMenterRobot?startgroup=true"),
+            text="🏆 Channel 🏆", url="https://t.me/SOCCER_ARMY"),
     ],
     [
-        InlineKeyboardButton(text="👨🏻‍🔬 My Devs", url="https://github.com/TeamGroupMenter/GroupMenter"),
-        InlineKeyboardButton(text="📜 Source", url="https://github.com/TeamGroupMenter/GroupMenter"),
-    ],
-    [
-        InlineKeyboardButton(text="🤖 News", url="https://t.me/GroupMenterUpdates"),
-        InlineKeyboardButton(text="👥 Support", url="https://t.me/GroupMenterGroup"),
-    ],
-    [
-        InlineKeyboardButton(
-            text="❔ Help", callback_data="help_back"
-        ),
+        InlineKeyboardButton(text="👨🏻‍🔬 My Dev", url="https://t.me/Vivek_Kerala"),
+        InlineKeyboardButton(text="⚽️ Group", url="https://t.me/SOCCERARMY")
     ],
 ]
 
