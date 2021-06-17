@@ -24,7 +24,7 @@ An PowerFull Group Manager Bot. Written In Pytelethon.
 ### Deploy to heroku 💤
 
 <p align="left">
-  <a href="https://dashboard.heroku.com/deploy?template=https://GitHub.com/neon-botz/groupmenter">
+  <a href="https://dashboard.heroku.com/deploy?template=https://gitHub.com/NEON-BOTS/groupmenter">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
